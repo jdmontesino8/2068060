@@ -1,0 +1,98 @@
+.container{
+  background: url(sala.jpg); 
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding-top:0px;
+  border-radius: 50px;
+}
+
+#div1
+{   width: 100%;
+    border-style: solid;
+    border-width: thin;
+    float: left;
+
+}
+#div2
+{
+    width: 700px;
+    color:white;
+    margin-left: auto;
+	margin-right: auto;
+    text-align:center;
+}
+
+#div3
+{
+    font-size: 21px;
+    border-width: thin;
+    border: 1px;
+    display: inline;
+    float: right;
+}
+.lgris
+{   color:black;
+    border:none;
+    padding:5px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 40px;
+    font-family: Georgia, Times, 'Times New Roman', serif;
+}
+
+#divconsulta
+{
+    width: 50%;
+    padding: 0;
+    border-style: solid;
+    border-width: thin;
+    border: 0px solid;
+
+}
+#divconsulta2
+{
+    font-size: 30px;
+    padding: 0;
+    border-width: thin;
+    border: 1px solid;
+
+}
+.rounded-circle{
+    width: 350px; 
+    height: 320px;
+    align-items: center;
+    float: right;
+    border-radius: 30px;
+}
+p{
+    background-color:white;
+    display: block;
+	right: auto;
+    border-radius: 20px;
+}
+
+.botoniniciar
+{
+    font-family:impact;
+}
+
+.button {
+    border: none;
+    padding: 70px 32px;
+    font-family:Impact;
+    display: inline-block;
+    font-size: 30px;
+    margin: 23px 25px;
+    cursor: pointer;
+    border-style: initial;
+}
+.cambio{
+    width:500px;
+    height:30px;
+}
+.espacio{
+    width:350px;
+    height:15px;
+
+}
+
