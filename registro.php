@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!DOCTYPE htmlxxxx>
 <html>
     <head>
         <title> Registro de Aprendices </title>
